@@ -1,0 +1,9 @@
+Building Jibcoin
+
+See doc/readme-qt.rst for instructions on building Jibcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Jibcoin.
+
+See doc/build-*.txt for instructions on building jibcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Jibcoin.
