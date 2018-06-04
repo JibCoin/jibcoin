@@ -1,7 +1,6 @@
-Jibcoin integration/staging tree
-================================
+Jibcoin
+=======
 
-http://www.jibcoin.org
 
 Copyright (c) 2009-2018 Bitcoin Developers
 Copyright (c) 2018 Jibcoin Developer
